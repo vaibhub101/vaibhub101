@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vaibhub101
-- 👀 I’m interested in Cloud Computing, networking, security.
+- 👋 Hi, I’m @Upretyvaib101
+- 👀 I’m interested in Cloud Computing, networking, security and DevOps.
 - 🌱 I’m currently learning Java and AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
